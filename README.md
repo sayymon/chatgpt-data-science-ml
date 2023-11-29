@@ -82,3 +82,13 @@ completion = client.chat.completions.create(
 
 print(completion.choices[0].message)
 ```
+
+No tópico de Análise e exploração de dados , foram tratados os seguintes assuntos : 
+
+- Estatísticas básicas
+- Valores faltantes
+- Outliers
+- Relação entre pares
+- Gráficos – atributos categóricos
+- Gráficos – atributos numéricos
+- Gráficos dinâmicos
